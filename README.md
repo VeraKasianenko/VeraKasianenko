@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vera!
-<img src="https://static.wixstatic.com/media/c042f4_bf33786b4dcd4ab38f36754cfcfe38f4~mv2.gif" height="35"/></h1>
+<img src="https://cs.pikabu.ru/post_img/2013/09/05/8/1378382279_2132894326.gif" height="35"/></h1>
 <h3 align="center">I am a student at ITMO University, Russia</h3>
 <h3 align="center"><img src="https://leaderid.s3.amazonaws.com/event_photo/211958/60bf9018c4e46663222947.png" height="250"/></h1></h3>
 
