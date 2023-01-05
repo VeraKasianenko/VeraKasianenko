@@ -4,7 +4,7 @@
 <h3 align="center"><img src="https://leaderid.s3.amazonaws.com/event_photo/211958/60bf9018c4e46663222947.png" height="150"/></h3>
 
 ### My mail:
-**verakasianenko02@gmail.com**
+**kasianenkovm@gmail.com**
 
 ### You can also contact me via social media:
 
